@@ -5,3 +5,5 @@ Ebob changes
 
 test changes to this file
 
+conflict changes observation in the readme file. Checking for conflicts in the readme file
+
